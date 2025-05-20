@@ -5,6 +5,7 @@
 
 そのあとにVSCodeをダウンロードします。している人はOK！
 https://code.visualstudio.com/
+
 Ctl+shift+Xを押して検索欄でJapaneseと検索して地球儀のアイコンのプラグインをインストールします。
 その次に検索欄でPyhtonと検索して"Python Debugge"と"Python"をインストールします。
 
