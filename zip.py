@@ -31,6 +31,6 @@ def unzip_and_move_all(zip_dir, out_dir, delete_zip=False):
 
 # 使い方
 if __name__ == "__main__":
-    zip_folder = r"C:\Users\syuin\WebApp\全自動zip解凍\zip_input"    # ZIPファイルがあるフォルダ
-    output_folder = r"C:\Users\syuin\WebApp\全自動zip解凍\zip_output" # 移動先フォルダ
+    zip_folder = r"C:\Users\AutoOpenzip\zip_input"                 # ZIPファイルがあるフォルダ
+    output_folder = r"C:\Users\AutoOpnezip\zip_output"             # 移動先フォルダ
     unzip_and_move_all(zip_folder, output_folder, delete_zip=True) # ZIP削除ならTrue
